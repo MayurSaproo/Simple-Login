@@ -1,0 +1,53 @@
+html{
+    background-color: azure;
+    margin-inline: auto;
+    padding: 80px;
+    
+    background-color: rgb(14, 7, 78);
+    background-image: url(img2.png);
+
+}
+
+
+img{
+    font-size: large;
+    text-align: center;
+    color: rgb(69, 69, 196);
+    border-radius: 50px; 
+    border: 2px black solid;
+
+}
+.py_img{
+    text-align: center;
+    margin-inline:25px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgb(28, 25, 65);
+    min-height: 55vh;
+    max-width: 35rem;
+    border-radius: 20px;
+}
+
+h2{
+    margin-inline:auto ;
+    padding-top: 25px; 
+    color:azure;
+}
+
+p{
+    margin-inline:auto ;
+    padding-top: 5px;
+    color: azure;
+}
+input{
+    border-radius: 20px;
+    height: 5vh;
+    width: 180px;
+}
+
+button{margin-top: 39px;
+    background-color: rgb(194, 161, 224);
+    border-radius: 25px;
+    width: 180px;
+    height: 6vh;
+}

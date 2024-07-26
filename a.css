@@ -5,6 +5,11 @@ html{
     
     background-color: rgb(14, 7, 78);
     background-image: url(img2.png);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
 
 }
 
